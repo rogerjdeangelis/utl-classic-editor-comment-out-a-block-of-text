@@ -71,7 +71,9 @@ PROCESS
                                                                                                                                      
         Purchase Logitech G203 gammimg mouse ($22)                                                                                   
         Download  SetPoint6.67.83_smartw10 (in my dropbox)                                                                           
-        https://www.dropbox.com/s/bjgtuf8x9pt5e8t/SetPoint6.67.83_smartw10.exe?dl=0                                                  
+        https://www.dropbox.com/s/bjgtuf8x9pt5e8t/SetPoint6.67.83_smartw10.exe?dl=0   
+        
+        Map a mouse button to F1  
                                                                                                                                      
      4. Forever command macro (worked for the last 40 years?)                                                                        
                                                                                                                                      
